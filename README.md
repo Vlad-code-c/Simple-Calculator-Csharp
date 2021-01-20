@@ -1,3 +1,3 @@
 # Simple-Calculator-Csharp
 
-![Main](../../main_screen.png)
+![Main](main_screen.png)
