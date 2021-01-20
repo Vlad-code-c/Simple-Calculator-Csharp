@@ -1,4 +1,6 @@
-﻿namespace WindowsFormsApp1
+﻿using System.Windows.Forms;
+
+namespace WindowsFormsApp1
 {
     partial class Form1
     {
@@ -321,7 +323,7 @@
             // 
             // button_equal
             // 
-            this.button_equal.BackColor = System.Drawing.Color.Orange;
+            this.button_equal.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (255)))), ((int) (((byte) (100)))), ((int) (((byte) (0)))));
             this.button_equal.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold);
             this.button_equal.ForeColor = System.Drawing.Color.White;
             this.button_equal.Location = new System.Drawing.Point(258, 339);
